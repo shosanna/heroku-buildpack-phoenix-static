@@ -1,4 +1,4 @@
-webpack
+NODE_ENV=production webpack
 mix phoenix.digest
 
 if mix help phoenix.digest.clean 1>/dev/null 2>&1; then
